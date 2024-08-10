@@ -1,0 +1,2 @@
+This  is an easy to use calculator which helps your body mass index (BMI) in just seconds. simply nput your weight and height, and the calculator will instantly provide your BMI score and category whether you are underweight, normal, overweight or obese. USe this tool to monitor your health and wellness, and take the first step towards a healthier lifestyle. try it out and take control of your well-being today at 
+# https://davidivine.github.io/BMI-calculator/
